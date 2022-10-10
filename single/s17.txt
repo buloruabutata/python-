@@ -1,0 +1,5 @@
+17、以下选项中，符合Python语言变量命名规则的是
+A Templist
+B ！1
+C (VR)
+D 5_1

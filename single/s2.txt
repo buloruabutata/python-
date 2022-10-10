@@ -1,0 +1,6 @@
+2、以下选项中，不是 Python 语言保留字的是
+A while
+B pass
+C do
+D except
+2

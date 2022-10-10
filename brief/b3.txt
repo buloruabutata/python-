@@ -1,0 +1,2 @@
+3、简述read. readline. readlines的区别
+read会一次性读取文件的全部内容；readline 每次读取一行，并且自带换行功，每一行末尾会读到\n；readlines 一次性以行的形式读取文件的所有内容并返回一个list，需要去遍历读出来

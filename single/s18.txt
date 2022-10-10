@@ -1,0 +1,5 @@
+18、下列选项中可以准确查看Python代码的语言版本（3.5.3）的是
+A >>> import sys，>>> sys.version
+B >>> import sys，>>> sys.exc_info()
+C >>> import sys，>>> sys.version—info
+D >>> import sys，>>> sys.path

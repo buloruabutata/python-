@@ -1,0 +1,5 @@
+19、下列选项中可以获取Python整数类型帮助的是
+A >>> help(float)
+B >>> dir(str)
+C >>> help(int)
+D >>> dir(int)

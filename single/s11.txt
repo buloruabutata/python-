@@ -1,0 +1,5 @@
+‪‬‪‬‪‬‪‬‪‬‭‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬‭‬‫‬‭‬‪‬‪‬‪‬‪‬‪‬‭‬‮‬‫‬‪‬‪‬‪‬‪‬‪‬‭‬‫‬‪‬‪‬‪‬‪‬‪‬‪‬‭‬‫‬‪‬11、关于import引用，以下选项中描述错误的是
+A 可以使用from turtle import setup 引入turtle库
+B 使用import turtle as t引入turtle库，取别名为t
+C 使用import turtle引入turtle库
+D import保留字用于导入模块或者模块中的对象

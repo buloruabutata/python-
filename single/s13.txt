@@ -1,0 +1,5 @@
+13、下面代码print(round(0.1 + 0.2,1) == 0.3)的输出结果是
+A 0
+B 1
+C False
+D True

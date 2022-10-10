@@ -1,0 +1,5 @@
+6、给出如下代码：TempStr ="Hello World"，可以输出“World”子串的是
+A print(TempStr[–5:0])
+B print(TempStr[–5:])
+C print(TempStr[–5: –1])
+D print(TempStr[–4: –1])

@@ -1,0 +1,5 @@
+16、给出如下代码s = 'Python is Open Source!'；print(s[0:].upper())，上述代码的输出结果是
+A PYTHON
+B PYTHON IS OPEN SOURCE
+C Python is Open Source!
+D PYTHON IS OPEN SOURCE!

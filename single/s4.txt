@@ -1,0 +1,5 @@
+4、下列选项中不符合Python语言变量命名规则的是
+A TempStr
+B I
+C 3_1
+D _AI
